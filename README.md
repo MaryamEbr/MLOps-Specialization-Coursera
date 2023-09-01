@@ -1,6 +1,8 @@
 # MLOps-Specialization-Coursera
 
 This repository contains material for Machine Learning Engineering for Production (MLOps) Specialization in Coursera by DeepLearning.AI
+https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
+
 Including 4 courses:
 
 1. Introduction to Machine Learning in Production
